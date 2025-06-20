@@ -1,0 +1,7 @@
+# Maven
+ts1_hw4/target/
+
+# IntelliJ
+.idea/
+ts1_hw4/.idea/
+*.iml
