@@ -1,0 +1,7 @@
+# Maven
+eshop_model/target/
+
+# IntelliJ
+.idea/
+eshop_model/.idea/
+*.iml
